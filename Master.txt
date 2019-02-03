@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/img/titles1/Castle https://imgur.com/a/GXlqINT
+/img/titles1/Castle.png https://imgur.com/a/GXlqINT
 <End of Version>
